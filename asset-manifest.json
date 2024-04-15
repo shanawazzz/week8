@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/week8/static/css/main.ff02f4b5.css",
+    "main.js": "/week8/static/js/main.cecd68b5.js",
+    "static/js/592.167abb64.chunk.js": "/week8/static/js/592.167abb64.chunk.js",
+    "static/media/mru.png": "/week8/static/media/mru.c54c97220dd34ea5a816.png",
+    "index.html": "/week8/index.html",
+    "main.ff02f4b5.css.map": "/week8/static/css/main.ff02f4b5.css.map",
+    "main.cecd68b5.js.map": "/week8/static/js/main.cecd68b5.js.map",
+    "592.167abb64.chunk.js.map": "/week8/static/js/592.167abb64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.cecd68b5.js"
+  ]
+}
